@@ -1,0 +1,51 @@
+*{
+    font-family:"Jost", serif;
+}
+header{
+    background-color: #7f0651;
+}
+.nav-item a{
+    color: pink;
+}
+
+#boton-perfil{
+    background-color: #7f0651;
+}
+.nav-item a:hover{
+    color: black;
+}
+#app{
+    color:blueviolet;
+}
+.boton-cv{
+    background-color: aquamarine;
+    color: brown;
+}
+.btn-proyecto{
+    background-color: green;
+}
+btn-proyecto a{
+    text-decoration: white;
+}
+.card .card-title{
+    color: #8a0049;
+}
+#contacto{
+    color: #200000;
+}
+#contacto p{
+    color:aqua;
+}
+
+footer .bi{
+    color: blueviolet;
+}
+footer p{
+    color: pink;
+}
+footer p a{
+    text-decoration: royalblue;
+    color: aliceblue;
+}
+
+
