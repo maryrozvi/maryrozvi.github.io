@@ -4,13 +4,13 @@ var typewriter = new Typewriter(app, {
     loop: true
 });
 
-typewriter.typeString('Desarrolladora Frontend Jr.')
+typewriter.typeString('IQ & Desarrolladora Frontend Jr.')
     .pauseFor(2500)
     .deleteAll()
-    .typeString('¡Siempre se puede lograr!')
+    .typeString('¡Si lo sueñas, se puede lograr!')
     .pauseFor(2500)
     //caracteres que se borraránn
     .deleteChars(7)
-    .typeString('<strong>Programar!</strong>')
+    .typeString('<strong>programar!</strong>')
     .pauseFor(2500)
     .start();

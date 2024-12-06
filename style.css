@@ -1,51 +1,65 @@
 *{
-    font-family:"Jost", serif;
+    font-family:"Faculty Glyphic", sans-serif;
+    font-size: 25px;
 }
-header{
-    background-color: #7f0651;
+h1{
+    font-family:"DM Serif Display", serif;
 }
-.nav-item a{
-    color: pink;
+h2{
+    font-family: "Concert One", sans-serif;
 }
 
+header{
+    background-color: #c9729f;
+}
 #boton-perfil{
-    background-color: #7f0651;
+    background-color: #e0c0c7;
+}
+.nav-item a{
+    color: #ffcdc5;
 }
 .nav-item a:hover{
-    color: black;
+    color: #770021;
 }
 #app{
-    color:blueviolet;
+    color:#689195;
+    font-family: "Concert One", sans-serif;
 }
 .boton-cv{
-    background-color: aquamarine;
-    color: brown;
+    background-color: #be0049;
+    color: white;
+}
+.habilidades{
+    background-color: #fff8ff;
 }
 .btn-proyecto{
-    background-color: green;
+    background-color: #baafc4;
 }
 btn-proyecto a{
-    text-decoration: white;
+    text-decoration:#e0c0c7;
 }
 .card .card-title{
     color: #8a0049;
 }
 #contacto{
-    color: #200000;
+    color: #be0049;
+    background-color:#fff8ff;
+}
+#btn-contacto{
+    background-color: #770021 ;
 }
 #contacto p{
-    color:aqua;
+    color:black;
 }
 
 footer .bi{
-    color: blueviolet;
+    color:#7f0651 ;
 }
 footer p{
-    color: pink;
+    color: black;
 }
 footer p a{
-    text-decoration: royalblue;
-    color: aliceblue;
+    text-decoration: #f8c7c9;
+    color: #9d7e79;
 }
-
 
